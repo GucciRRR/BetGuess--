@@ -1,0 +1,31 @@
+i.icon-2x {
+    font-size: 30px;
+  }
+  
+  .color-light{
+      color:#000000;
+  }
+
+  .servive-block {
+    padding: 20px 50px;
+    border-radius: 10px 10px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .servive-block p,
+  .servive-block h2 {
+    color: rgb(0, 0, 0);
+  }
+  
+  .servive-block h2 a:hover{
+    text-decoration: none;
+  }
+
+  .servive-block-grey {
+    background: #cfcfcf;
+  }
+
+  #new {
+    margin-top: 10px;
+  }
